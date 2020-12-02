@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://cit336.malorieaaron.com/public/images/to_do_list_logo.png" alt="app_logo" width="120">
+    <img src="https://cit336.malorieaaron.com/public/images/to_do_list_logo.png" alt="app_logo" width="300">
   <br>
   <br>
   To-do App
@@ -16,10 +16,10 @@
   
   ## Features
   [//]: # (Add the features of your project here:)
-  This app features all the latest tools and practices in mobile development!
+  Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel e back-end!
   
-  - ⚛️ **Flutter** — Na parte mobile, foi utilizado o Flutter!
-  - ⚛️ **ASP.NET Core** — Na parte do back-end, foi utilizado o ASP.NET Core! (.NET 5)
+  - 💹 **Flutter** — Na parte mobile, foi utilizado o Flutter!
+  - 💹 **ASP.NET Core** — Na parte do back-end, foi utilizado o ASP.NET Core! (.NET 5)
   - 💹 **Firebase** — Na autenticação, foi utilizado o Firebase!
   
   ## License
