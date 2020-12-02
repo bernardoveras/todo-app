@@ -17,6 +17,7 @@
   ## Features
   [//]: # (Add the features of your project here:)
   Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel e back-end!
+  Clique em cima do texto para ir para os projetos!
   
   - 💹 **Flutter** — Na parte mobile, foi utilizado o Flutter!
   - 💹 [**ASP.NET Core**](https://github.com/bernardoveras/todo-app-backend) — Na parte do back-end, foi utilizado o ASP.NET Core! (.NET 5)
