@@ -3,10 +3,8 @@
     <img src="https://cit336.malorieaaron.com/public/images/to_do_list_logo.png" alt="app_logo" width="300">
   <br>
   <br>
-  To-do App
+  Feito em ASP.NET Core, Firebase e Flutter
   </h1>
-  
-  <p align="center">Feito em ASP.NET Core, Firebase e Flutter</p>
   
   <p align="center">
     <a href="https://opensource.org/licenses/MIT">
