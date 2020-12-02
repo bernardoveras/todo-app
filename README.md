@@ -16,7 +16,7 @@
   
   ## Features
   [//]: # (Add the features of your project here:)
-  Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel e back-end!
+  Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel e back-end!<br>
   Clique em cima do texto para ir para os projetos!
   
   - 💹 **Flutter** — Na parte mobile, foi utilizado o Flutter!
