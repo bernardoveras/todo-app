@@ -3,7 +3,7 @@
     <img src="https://cit336.malorieaaron.com/public/images/to_do_list_logo.png" alt="app_logo" width="300">
   <br>
   <br>
-  Feito em ASP.NET Core, Firebase e Flutter
+  Feito em ASP.NET Core, Blazor, Flutter e Firebase
   </h1>
   
   <p align="center">
