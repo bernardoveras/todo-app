@@ -19,8 +19,9 @@
   Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel e back-end!<br>
   Clique em cima do texto para ir para os projetos!
   
-  - 💹 **Flutter** — Na parte mobile, foi utilizado o Flutter!
+  - 💹 [**Flutter**](https://github.com/bernardoveras/todo-app-mobile) — Na parte do front-end mobile, foi utilizado o Flutter!
   - 💹 [**ASP.NET Core**](https://github.com/bernardoveras/todo-app-backend) — Na parte do back-end, foi utilizado o ASP.NET Core! (.NET 5)
+  - 💹 **Blazor** — Na parte do front-end web, foi utilizado o Blazor WebAssembly!
   - 💹 **Firebase** — Na autenticação, foi utilizado o Firebase!
   
   ## License
