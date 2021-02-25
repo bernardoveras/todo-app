@@ -21,7 +21,6 @@
   
   - 💹 [**Flutter**](https://github.com/bernardoveras/todo-app-mobile) — Na parte do front-end mobile, foi utilizado o Flutter!
   - 💹 [**ASP.NET Core**](https://github.com/bernardoveras/todo-app-backend) — Na parte do back-end, foi utilizado o ASP.NET Core! (.NET 5)
-  - 💹 **Blazor** — Na parte do front-end web, foi utilizado o Blazor WebAssembly!
   - 💹 **Firebase** — Na autenticação, foi utilizado o Firebase!
   
   ## License
